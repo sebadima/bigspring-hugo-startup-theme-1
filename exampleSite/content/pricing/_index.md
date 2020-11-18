@@ -23,7 +23,7 @@ professional:
   name : "Professional Plan"
   price: "$49"
   price_per : "month"
-  info : "Best For Professionals"
+  info : "Best For XXXXX Professionals"
   services:
   - "Express Service"
   - "Customs Clearance"
